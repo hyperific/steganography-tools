@@ -45,10 +45,10 @@ def decode(imagesFolder):
 	sort = np.argsort(imgIndices)
 	message = "".join(chunks[sort])
 		
-	return
-	return message
 	
 	return message
-	return message
 	
-	return message
+	
+	
+	
+	
